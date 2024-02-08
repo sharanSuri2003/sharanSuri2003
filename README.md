@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js and node.js**
 
-- 👨‍💻 All of my projects are available at [--inwork--](--inwork--)
-
+- 👨‍💻 All of my projects are available at www.sharansuri.me
 - 💬 Ask me about **React, Express.js**
 
 - 📫 How to reach me **sharansuri-8@hotmail.com**
