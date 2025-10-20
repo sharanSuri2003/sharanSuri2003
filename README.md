@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sharan Suri</h1>
-<h3 align="center">A silly Hax0r from Pangaea</h3>
 
 - 🌱 I’m currently learning **Next.js and node.js**
 
